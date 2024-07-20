@@ -26,7 +26,6 @@ Welcome to the Food Delivery App! This application allows users to browse food i
 - Context API
 - Custom Hooks
 - Styled Components
-- React Router
 
 ## Installation
 
