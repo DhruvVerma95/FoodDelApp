@@ -8,9 +8,7 @@ Welcome to the Food Delivery App! This application allows users to browse food i
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
